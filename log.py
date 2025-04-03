@@ -1,0 +1,1 @@
+print("file log.py Major")
